@@ -1,0 +1,6 @@
+
+train: ../animal_dataset/images/train/
+val: ../animal_dataset/images/val/
+nc: 15
+
+names: ['giraffe','tiger','bear','lion','elephant','deer','wolf','bull','monkey','leopard','rhinoceros','hippo','cattle','buffaloe','goat']
